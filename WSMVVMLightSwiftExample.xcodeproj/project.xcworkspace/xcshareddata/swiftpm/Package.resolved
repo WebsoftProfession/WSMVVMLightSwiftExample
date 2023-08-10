@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mvvmlightswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/WebsoftProfession/MVVMLightSwift",
+      "state" : {
+        "revision" : "52bd30555d844a69d909c77755e434d4f5d31dad",
+        "version" : "1.0.8"
+      }
+    }
+  ],
+  "version" : 2
+}
